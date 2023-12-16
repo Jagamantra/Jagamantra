@@ -9,7 +9,6 @@ I'm Jagadeep, a full-stack developer with 1.6 years of experience, specializing 
 * 🌍  I'm based in Hosur, India
 * 🖥️  See my portfolio at [portfolio](https://jagadeep-portfolio-1.netlify.app/)
 * ✉️  You can contact me at [jagasiva1999@gmail.com](mailto:jagasiva1999@gmail.com)
-* 🚀  I'm currently working on [Basic Spring Boot Project](https://github.com/Jaga1999/todoapp)
 * 🧠  I'm learning Java Spring Boot
 * 🤝  I'm open to collaborating on Instresting Projects
 
