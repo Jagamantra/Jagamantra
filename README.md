@@ -7,9 +7,9 @@ Full Stack Developer
 I'm Jagadeep, a full-stack developer with 1.6 years of experience, specializing in the MERN stack and proficient in Java, GoLang, and Python. Skilled in frameworks like React, Spring Boot, and Go Gin, I handle both SQL and NoSQL databases. Eager to explore new technologies and committed to continuous learning. Let's connect and collaborate on exciting projects! 🚀
 
 * 🌍  I'm based in Hosur, India
-* 🖥️  See my portfolio at [portfolio](http://https://jagadeep-portfolio-1.netlify.app/)
+* 🖥️  See my portfolio at [portfolio](https://jagadeep-portfolio-1.netlify.app/)
 * ✉️  You can contact me at [jagasiva1999@gmail.com](mailto:jagasiva1999@gmail.com)
-* 🚀  I'm currently working on [Basic Spring Boot Project](http://https://github.com/Jaga1999/todoapp)
+* 🚀  I'm currently working on [Basic Spring Boot Project](https://github.com/Jaga1999/todoapp)
 * 🧠  I'm learning Java Spring Boot
 * 🤝  I'm open to collaborating on Instresting Projects
 
